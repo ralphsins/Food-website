@@ -1,9 +1,9 @@
 # Install npm Packages and Start Application
 To install npm packages, use the following command:
-npm install
+`npm install`
 
 To start your application, use the following command:
-npm start
+`npm start`
 
 Make sure you have a `package.json` file in your project directory before running these commands. This file contains the necessary information about your project and its dependencies.
 
